@@ -9,7 +9,7 @@
 ✍️ &nbsp;In my free time, I love traveling and cooking for my family members.\
 💬 &nbsp; Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp; You can shoot me an email at me@muniraakter.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://muniraakter.com/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Portfolio](https://muniraakter.com/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://media2.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif?cid=6c09b9521tceja89y0ks4tjzummxsbea3wrg2g37ozqx3s5r&ep=v1_stickers_related&rid=giphy.gif&ct=s" align="right" height="300px" width="40%"/>
 
