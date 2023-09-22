@@ -11,7 +11,7 @@
 ✉️ &nbsp; You can shoot me an email at me@muniraakter.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://muniraakter.com/) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" align="right"/>
+<img alt="Night Coding" src="https://media2.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif?cid=6c09b9521tceja89y0ks4tjzummxsbea3wrg2g37ozqx3s5r&ep=v1_stickers_related&rid=giphy.gif&ct=s" align="right" height="300px" width="40%"/>
 
 ### 🛠 &nbsp; My reach in the Tech world
 
@@ -23,15 +23,17 @@
 ![Redux](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=redux&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=tailwindcss)\
-![MUI](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=mui&logoColor=2C2255)\
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
+![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui&logoColor=2C2255)&nbsp;
+</br>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jest](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=jest)&nbsp;
 ![Supertest](https://img.shields.io/badge/-Vue.Js-05122A?style=flat&logo=supertest)&nbsp;
-![Swagger](https://img.shields.io/badge/-Ajax-05122A?style=flat&logo=swagger)&nbsp;
-![Express](https://img.shields.io/badge/-Ajax-05122A?style=flat&logo=express)&nbsp;
-![MongoDB](https://img.shields.io/badge/-Ajax-05122A?style=flat&logo=mongodb)&nbsp;
-![MySQL](https://img.shields.io/badge/-Ajax-05122A?style=flat&logo=mysql)&nbsp;
+![Swagger](https://img.shields.io/badge/-swagger-05122A?style=flat&logo=swagger)&nbsp;
+![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
+</br>
+![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
